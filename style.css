@@ -74,7 +74,13 @@ nav ul li a:hover::after{
 .img{
     padding: 0% 100%;
     width: 100px;
+}
 
+.welcome{
+    margin-top: 28%;   
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 35%;
 }
 
 
@@ -92,12 +98,40 @@ nav ul li a:hover::after{
 
 .about-col-1{
     flex-basis: 35%;
+
 }
 
 .about-col-1 img{
-    width: 150%;
-    height: 60%;
+    width: 120%;
+    height: 102%;
     border-radius: 15px;
     padding-left: 1%;
-    margin-top: 103%;
+    margin-top: 15%;
+    padding: 2% 0px;
+}
+
+.about-col-2{
+    flex-basis: 60%;
+}
+
+.sub-title{
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+    margin-top: 11%;
+    margin-left: 75%;
+}
+
+.pharagraph{
+    margin-left: 10%;
+}
+
+.points{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.pharagraph-2{
+    margin-left: 10%;
+    margin-top: 5%;
 }
