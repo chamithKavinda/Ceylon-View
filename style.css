@@ -256,7 +256,6 @@ nav ul li a:hover::after{
 
 .btn:hover{
     background-color: yellow;
-    transform: translateY(-10px);
     cursor: pointer;
 }
 
@@ -278,3 +277,17 @@ form input, form textarea{
     border-radius: 6px;
 }
 
+.copyright{
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 25px 0;
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.Copyrighttext{
+    color: white;
+    font-size: large;
+    font-weight: 300;
+}
