@@ -20,6 +20,7 @@
     font-size: 25px;
 }
 
+/* ---------------- Ella Rock ---------------- */
 .ellaRock-img{
     background-image: url(assest/ellaRock01.jpg);
                 background-size: cover;
@@ -28,5 +29,14 @@
                 height: 100vh;
                 margin: 0;
                 padding: 0;
+}
+
+/* ---------------- Ambuluwawa Tower ---------------- */
+.col-1{
+    flex-basis: 35%;
+}
+
+.col-2{
+    flex-basis: 60%;
 }
 
