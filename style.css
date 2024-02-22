@@ -270,7 +270,7 @@ form input, form textarea{
     outline: none;
     background: white;
     padding: 4%;
-    margin: 5% 0;
+    margin: 3% 0;
     margin-top: 0%;
     color: black;
     font-size: 18px;
@@ -291,3 +291,4 @@ form input, form textarea{
     font-size: large;
     font-weight: 300;
 }
+
