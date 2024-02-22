@@ -218,3 +218,63 @@ nav ul li a:hover::after{
     transform: translateY(-10px);
     opacity: 0.5;
 }
+
+
+/*----------------------------- Contact Us -----------------------*/
+
+#contact{
+    margin-top: 5%;
+    color: black;
+    flex-basis: 60%;
+    font-size: 25px;
+    font-weight: 600;
+    background-image: url(assest/pexels-kavindra-yasas-11736953.jpg);
+    background-size: cover;
+}
+
+.contact-left{
+    flex-basis: 35%;
+}
+
+.contact-right{
+    flex-basis: 60%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.btn{
+    display: inline;
+    background-color: white;
+    width: 130px;
+    height: 30px;
+    padding: 7px;
+    font-size: large;
+    font-weight: 300;
+    border: none;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    background-color: yellow;
+    transform: translateY(-10px);
+    cursor: pointer;
+}
+
+.contact-right form{
+    width: 80%;
+    height: 10%;
+}
+
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: white;
+    padding: 4%;
+    margin: 5% 0;
+    margin-top: 0%;
+    color: black;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
