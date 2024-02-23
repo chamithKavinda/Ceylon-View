@@ -42,20 +42,28 @@
 
 /* ---------------- Arugambay Beach ---------------- */
 
-body{
-    background-image: url(assest/pexels-oleksandr-p-330260.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-}
-
 .title{
-    color: white;
+    color: black;
     margin-top: 5%;
     margin-left: 5%;
     font-size: 60px;
     font-weight: 400;
 }
+
+.img-arugambay{
+    width: 1000px ;
+    height: 500px;
+    margin-left: 10%;
+}
+
+.des-aru{
+    margin-left: 5%;
+    font-size: large;
+}
+
+.dec2{
+    margin-left: 5%;
+    font-size: large;
+}
+
+
