@@ -229,6 +229,7 @@ nav ul li a:hover::after{
     font-weight: 600;
     background-image: url(assest/pexels-kavindra-yasas-11736953.jpg);
     background-size: cover;
+    height: 590px;
 }
 
 .contact-left{
@@ -251,6 +252,7 @@ nav ul li a:hover::after{
     font-weight: 300;
     border: none;
     border-radius: 20px;
+    
 }
 
 .btn:hover{
@@ -278,7 +280,7 @@ form input, form textarea{
 
 .copyright{
     width: 100%;
-    margin-top: 5%;
+
     text-align: center;
     padding: 25px 0;
     background-color: gray;
@@ -290,4 +292,22 @@ form input, form textarea{
     font-size: large;
     font-weight: 300;
 }
+
+
+/*----------------------------- Add Details -----------------------*/
+
+#AddDetails{
+    margin-top: 1%;
+    color: black;
+    flex-basis: 60%;
+    height: 740px;
+    font-size: 25px;
+    font-weight: 600;
+    background-image: url(assest/footer.jpg);
+    background-size: cover;
+}
+
+
+
+
 
