@@ -66,4 +66,39 @@
     font-size: large;
 }
 
+/* ---------------- Yala National Park ---------------- */
+
+.title 1{
+    color: black;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 60px;
+    font-weight: 400; 
+}
+
+.IMG-YALA{
+    margin-left: 22%;
+}
+
+.copyright{
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 25px 0;
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.Copyrighttext{
+    color: white;
+    font-size: large;
+    font-weight: 300;
+}
+
+/* ---------------- Nine Arches Bridge ---------------- */
+
+.img-nineArches{
+    margin-left: 22%;
+}
+
 
