@@ -21,50 +21,10 @@
 }
 
 /* ---------------- Ella Rock ---------------- */
-.ellaRock-img{
-    background-image: url(assest/ellaRock01.jpg);
-                background-size: cover;
-                background-position: center;
-                background-repeat: no-repeat;
-                height: 100vh;
-                margin: 0;
-                padding: 0;
-}
-
-/* ---------------- Ambuluwawa Tower ---------------- */
-.col-1{
-    flex-basis: 35%;
-}
-
-.col-2{
-    flex-basis: 60%;
-}
 
 /* ---------------- Arugambay Beach ---------------- */
 
-.title{
-    color: black;
-    margin-top: 5%;
-    margin-left: 5%;
-    font-size: 60px;
-    font-weight: 400;
-}
 
-.img-arugambay{
-    width: 1000px ;
-    height: 500px;
-    margin-left: 10%;
-}
-
-.des-aru{
-    margin-left: 5%;
-    font-size: large;
-}
-
-.dec2{
-    margin-left: 5%;
-    font-size: large;
-}
 
 /* ---------------- Yala National Park ---------------- */
 

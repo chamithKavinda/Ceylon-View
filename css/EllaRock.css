@@ -1,0 +1,24 @@
+.ellaRock-img{
+    background-image: url(/assest/ellaRock01.jpg);
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 100vh;
+                margin: 0;
+                padding: 0;
+}
+
+.copyright{
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 25px 0;
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.Copyrighttext{
+    color: white;
+    font-size: large;
+    font-weight: 300;
+}
