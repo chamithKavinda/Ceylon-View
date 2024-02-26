@@ -1,0 +1,29 @@
+
+.img-sinharaja{
+    margin-left: 15%;
+    width: 70%;
+}
+
+.des-sinharaja{
+    margin-top: 5%;
+    font-size: 22px;
+}
+
+.Heading ul li{
+    margin-left: 20%;
+}
+
+.copyright{
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 25px 0;
+    background-color: gray;
+    opacity: 0.5;
+}
+
+.Copyrighttext{
+    color: white;
+    font-size: large;
+    font-weight: 300;
+}

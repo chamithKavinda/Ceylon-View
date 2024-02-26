@@ -169,35 +169,35 @@ nav ul li a:hover::after{
 }
 
 .destinations-list div:nth-child(1){
-    background-image: url(assest/Gallefort.jpg);
+    background-image: url(/assest/Gallefort.jpg);
 }
 
 .destinations-list div:nth-last-child(7){
-    background-image: url(assest/ellaRock.jpg);
+    background-image: url(/assest/EllaRockDestination.jpg);
 }
 
 .destinations-list div:nth-last-child(6){
-    background-image: url(assest/Ambuluwawa.jpg);
+    background-image: url(/assest/Ambuluwawa.jpg);
 }
 
 .destinations-list div:nth-last-child(5){
-    background-image: url(assest/arugam\ bay.jpg);
+    background-image: url(/assest/ArugambayDestinationPage.jpg);
 }
 
 .destinations-list div:nth-last-child(4){
-    background-image: url(assest/Yala.webp);
+    background-image: url(/assest/Yala.webp);
 }
 
 .destinations-list div:nth-last-child(3){
-    background-image: url(assest/nine-arch-2-5.jpg);
+    background-image: url(/assest/NineArchDestination.jpg);
 }
 
 .destinations-list div:nth-last-child(2){
-    background-image: url(assest/Sinharaja_Rain_Forest.jpg);
+    background-image: url(/assest/Sinharaja_Rain_Forest.jpg);
 }
 
 .destinations-list div:nth-last-child(1){
-    background-image: url(assest/Mirissa.jpg);
+    background-image: url(/assest/Mirissa.jpg);
 }
 .destinations-list div h2 {
     font-size: 30px;
@@ -227,7 +227,7 @@ nav ul li a:hover::after{
     flex-basis: 60%;
     font-size: 25px;
     font-weight: 600;
-    background-image: url(assest/pexels-kavindra-yasas-11736953.jpg);
+    background-image: url(/assest/ContactUs.jpg);
     background-size: cover;
     height: 590px;
 }
@@ -303,7 +303,7 @@ form input, form textarea{
     height: 740px;
     font-size: 25px;
     font-weight: 600;
-    background-image: url(assest/footer.jpg);
+    background-image: url(/assest/InformationFormBackground.jpg);
     background-size: cover;
 }
 
