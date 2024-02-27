@@ -1,5 +1,6 @@
 .img-nineArches{
-    margin-left: 5%;
+    margin-left: 15%;
+    height: 500px;
 }
 
 .copyright{
@@ -27,4 +28,8 @@ p::first-letter{
 
 p::first-line{
     font-weight: bold;
+}
+
+.video{
+    width: 40px;
 }
