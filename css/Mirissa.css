@@ -17,3 +17,15 @@
     font-size: large;
     font-weight: 300;
 }
+
+p::before{
+    content: "M";
+}
+
+p::first-letter{
+    font-size: 30px;
+}
+
+p::first-line{
+    font-weight: bold;
+}

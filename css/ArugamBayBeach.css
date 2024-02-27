@@ -17,6 +17,18 @@
     font-size: large;
 }
 
+.des-aru::before{
+    content: "A";
+}
+
+.des-aru::first-letter{
+    font-size: 30px;
+}
+
+.des-aru::first-line{
+    font-weight: bold;
+}
+
 .dec2{
     margin-left: 5%;
     font-size: large;

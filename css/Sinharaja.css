@@ -27,3 +27,15 @@
     font-size: large;
     font-weight: 300;
 }
+
+.des-sinharaja::before{
+    content: "S";
+}
+
+.des-sinharaja::first-letter{
+    font-size: 30px;
+}
+
+.des-sinharaja::first-line{
+    font-weight: bold;
+}

@@ -8,6 +8,18 @@
                 padding: 0;
 }
 
+h4::before{
+    content: "E";
+}
+
+h4::first-letter{
+    font-size: 30px;
+}
+
+h4::first-line{
+    font-weight: bold;
+}
+
 .copyright{
     width: 100%;
     margin-top: 5%;

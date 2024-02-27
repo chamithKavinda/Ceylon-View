@@ -6,6 +6,24 @@
     flex-basis: 60%;
 }
 
+
+h4::before{
+    content: "A";
+}
+
+h4::first-letter{
+    font-size: 30px;
+}
+
+h4::first-line{
+    font-weight: bold;
+}
+
+h1{
+    color: teal;
+    font-weight: bold;
+}
+
 .copyright{
     width: 100%;
     margin-top: 5%;

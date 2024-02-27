@@ -5,6 +5,18 @@
     font-weight: 400;
 }
 
+h4::before{
+    content: "G";
+}
+
+h4::first-letter{
+    font-size: 30px;
+}
+
+h4::first-line{
+    font-weight: bold;
+}
+
 .Heading img{
     width: 50%;
     height: 400%;
