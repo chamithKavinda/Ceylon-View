@@ -1,6 +1,9 @@
-Ceylon View is the Documentary Web site for using basic html.
-Sri lanka Best Destinations included this web Page.
+🚀 Internet Technology module Assignment "Ceylon View" a Documentory Web Page using Basic HTMl functions. 🚀
 
+💥 Key Features :
+Included Sri Lanka best Destinations
+Images And Videos included
+visitors can add articals
 
 
 ![Screenshot 2024-02-27 092811](https://github.com/chamithKavinda/Ceylon-View/assets/139870167/529bd285-81cc-4d8c-bffa-eac8915932f1)
