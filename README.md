@@ -1,4 +1,4 @@
-🚀 Internet Technology module Assignment "Ceylon View" a Documentory Web Page using Basic HTMl functions. 🚀
+🚀 Internet Technology module Assignment "Ceylon View" a Documentory Web Page using Basic HTMl functions & CSS. 🚀
 
 💥 Key Features :
 Included Sri Lanka best Destinations
