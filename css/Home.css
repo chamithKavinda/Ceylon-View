@@ -199,6 +199,7 @@ nav ul li a:hover::after{
 .destinations-list div:nth-last-child(1){
     background-image: url(/assest/Mirissa.jpg);
 }
+
 .destinations-list div h2 {
     font-size: 30px;
     font-weight: 500;
