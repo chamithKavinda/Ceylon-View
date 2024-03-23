@@ -1,3 +1,22 @@
+table {
+    width: 80%;
+   border-collapse: collapse;
+   border: 2px solid;
+   margin-left: 10%;
+   margin-top: 5%;
+   font-size: large;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+    border-right: 1px solid
+}
+
+th {
+    background-color: lightblue;
+}
 
 .img-mirissa{
     margin-left: 22%;

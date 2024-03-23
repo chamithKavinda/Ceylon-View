@@ -1,3 +1,21 @@
+table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 2px solid;
+    margin-left: 10%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+    border-right: 1px solid
+}
+
+th {
+    background-color: lightblue;
+}
+
 .title{
     color: black;
     margin-top: 5%;
