@@ -1,6 +1,21 @@
 /*----------------------------- Home -----------------------*/
+
 body{
+    background-size: cover;
     background-color: beige;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/assest/images/home.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 *{
@@ -81,6 +96,11 @@ nav ul li a:hover::after{
     color: aliceblue;
     margin-left: 35%;
 }
+
+.newsFeed{
+    display: none;
+}
+
 
 
 /*----------------------------- About -----------------------*/
@@ -169,35 +189,35 @@ nav ul li a:hover::after{
 }
 
 .destinations-list div:nth-child(1){
-    background-image: url(/assest/Gallefort.jpg);
+    background-image: url(/assest/images/Gallefort.jpg);
 }
 
 .destinations-list div:nth-last-child(7){
-    background-image: url(/assest/EllaRockDestination.jpg);
+    background-image: url(/assest/images/EllaRockDestination.jpg);
 }
 
 .destinations-list div:nth-last-child(6){
-    background-image: url(/assest/Ambuluwawa.jpg);
+    background-image: url(/assest/images/Ambuluwawa.jpg);
 }
 
 .destinations-list div:nth-last-child(5){
-    background-image: url(/assest/ArugambayDestinationPage.jpg);
+    background-image: url(/assest/images/ArugambayDestinationPage.jpg);
 }
 
 .destinations-list div:nth-last-child(4){
-    background-image: url(/assest/Yala.webp);
+    background-image: url(/assest/images/Yala.webp);
 }
 
 .destinations-list div:nth-last-child(3){
-    background-image: url(/assest/NineArchDestination.jpg);
+    background-image: url(/assest/images/NineArchDestination.jpg);
 }
 
 .destinations-list div:nth-last-child(2){
-    background-image: url(/assest/Sinharaja_Rain_Forest.jpg);
+    background-image: url(/assest/images/Sinharaja_Rain_Forest.jpg);
 }
 
 .destinations-list div:nth-last-child(1){
-    background-image: url(/assest/Mirissa.jpg);
+    background-image: url(/assest/images/Mirissa.jpg);
 }
 
 .destinations-list div h2 {
@@ -228,7 +248,7 @@ nav ul li a:hover::after{
     flex-basis: 60%;
     font-size: 25px;
     font-weight: 600;
-    background-image: url(/assest/ContactUs.jpg);
+    background-image: url(/assest/images/ContactUs.jpg);
     background-size: cover;
     height: 590px;
 }
@@ -294,7 +314,6 @@ form input, form textarea{
     font-weight: 300;
 }
 
-
 /*----------------------------- Add Details -----------------------*/
 
 #AddDetails{
@@ -304,11 +323,36 @@ form input, form textarea{
     height: 740px;
     font-size: 25px;
     font-weight: 600;
-    background-image: url(/assest/InformationFormBackground.jpg);
+    background-image: url(/assest/images/InformationFormBackground.jpg);
     background-size: cover;
 }
 
+table{
+    border: 1px solid white;
+    
+}
 
+td{
+    border: 1px solid white;
+    padding: 10px;
+}
+
+/*----------------------------- CSS for small screen -----------------------*/
+
+@media only screen and (max-with: 600px){
+    body{
+        background-image: url(/assest/images/homeR.jpg);
+    }
+
+    .header-text{
+        margin-top: 100%;
+        font-size: 16px;
+    }
+
+    .header-text h1{
+        font-size: 30px;
+    }
+}
 
 
 
