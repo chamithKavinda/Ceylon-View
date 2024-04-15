@@ -321,7 +321,7 @@ form input, form textarea{
 
 /*----------------------------- Add Details -----------------------*/
 
-/* #AddDetails{
+ #AddDetails{
     margin-top: 1%;
     color: black;
     flex-basis: 60%;
@@ -340,7 +340,7 @@ table{
 td{
     border: 1px solid white;
     padding: 10px;
-} */
+} 
 
 /*----------------------------- CSS for small screen -----------------------*/
 
